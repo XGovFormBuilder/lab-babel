@@ -1,12 +1,12 @@
 {
-  "name": "@XGovFormBuilder/lab-babel",
+  "name": "@xgovformbuilder/lab-babel",
   "version": "2.0.0",
-  "description": "a transform for lab to allow testing babel transpiled modules, with coverage and source maps",
+  "description": "a transform for lab to allow testing babel transpiled modules, with coverage and source maps (fork from nfl/lab-babel)",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/nlf/lab-babel.git"
+    "url": "git://github.com/XGovFormBuilder/lab-babel.git"
   },
   "keywords": [
     "lab",
