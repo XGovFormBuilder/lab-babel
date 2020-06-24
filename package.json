@@ -1,6 +1,6 @@
 {
   "name": "@xgovformbuilder/lab-babel",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "a transform for lab to allow testing babel transpiled modules, with coverage and source maps (fork from nfl/lab-babel)",
   "main": "index.js",
   "scripts": {},
